@@ -18,7 +18,7 @@ repository/
 │  ├─ Makefile
 │  ├─ implementation/
 │  ├─ example/
-│  ├─ tests/
+│  ├─ test/
 ├─ LICENSE
 ├─ .gitignore
 ├─ README.md
@@ -40,6 +40,6 @@ Each task has it's own subfolder. The folder is named the same as the task to qu
 
     A working and fully to spec example implementation of the descripted task to give an example solution for the learner.
 
--   tests/
+-   test/
 
     A folder for storing tests. It must be easy to run these test without complex installing of additional tools. Tools and libraries available in the package manager are okay. Please specify in the task description if and which additonal packages are needed to run these tests.
